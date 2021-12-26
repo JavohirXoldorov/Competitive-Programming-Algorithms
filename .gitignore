@@ -1,5 +1,13 @@
 # Prerequisites
 *.d
+# Ignore Everything
+*
+
+# But not .cpp
+!*.cpp
+# Or directories
+!*/
+!README.md
 
 # Compiled Object files
 *.slo
