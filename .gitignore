@@ -1,5 +1,5 @@
 # Ignore Everything
-# *
+# *git 
 
 # But not .cpp
 # !*.cpp
