@@ -2,5 +2,5 @@
 # *
 
 # But not .cpp
-!*.cpp
-*/*.cpp
+# !*.cpp
+# */*.cpp
